@@ -1,0 +1,14 @@
+{
+    "debug.toolBarLocation": "docked",
+    "editor.minimap.enabled": true,
+    "explorer.confirmDragAndDrop": true,
+    "extensions.autoUpdate": false,
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    "update.mode": "none",
+    "update.showReleaseNotes": false,
+    "workbench.iconTheme": "vs-minimal",
+    "workbench.startupEditor": "newUntitledFile"
+}
