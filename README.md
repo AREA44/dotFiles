@@ -2,6 +2,6 @@
 
 Backup, restore and sync the prefs and settings.
 
-### LICENSE
+## License
 
 Licensed under the [MIT](LICENSE) license.
