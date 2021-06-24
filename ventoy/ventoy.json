@@ -1,6 +1,5 @@
 {
   "control": [
-    { "VTOY_DEFAULT_MENU_MODE": "1" },
     { "VTOY_MAX_SEARCH_LEVEL": "0" },
     { "VTOY_DEFAULT_KBD_LAYOUT": "QWERTY_USA" }
   ]
